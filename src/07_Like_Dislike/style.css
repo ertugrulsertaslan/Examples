@@ -1,0 +1,21 @@
+.btn {
+    width: 7rem;
+    height: 7rem;
+  }
+  .gray {
+    color: gray;
+  }
+  .green {
+    color: green;
+  }
+  .red {
+    color: red;
+  }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 10rem;
+  
+  }

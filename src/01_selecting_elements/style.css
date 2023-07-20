@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 10rem;
+  
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    background-color: #e08acd;
+    margin: 0 2rem;
+  }
+  #btn {
+    width:12rem;
+    height:12rem;
+  }

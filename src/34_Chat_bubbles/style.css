@@ -1,0 +1,46 @@
+#container {
+    background-color:blue ;
+    width:480px;
+    height:200px;
+    overflow:auto;
+  }
+  
+  #message {
+    margin-top:2rem;
+    width:22rem;
+  }
+  
+  .text {
+    width:100px;
+    height:50px;
+    background-color:red;
+    margin-top:1rem;
+    color:white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left:1rem;
+    border-radius:15px;
+  }
+  
+  .bubble {
+    border-radius:15px;
+    color:black;
+    background-color:yellow;
+    width:120px;
+    padding:5px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin: 1rem 0 0.5rem 20rem ;
+    word-wrap: break-word;
+    display:inline-block; 
+  }
+  body {
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items: center;
+    height: 100vh;
+  }
+  

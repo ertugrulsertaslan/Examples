@@ -1,0 +1,29 @@
+span {
+    display:inline-block;
+    height:100px;
+    width:100px;
+  }
+  body {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+  }
+  
+  .empty {
+    color: black;
+  }
+  
+  .hover {
+    color: yellow;
+  }
+  
+  .selected {
+    color: gold;
+  }
+  
+  
+  
+  
+  
+  

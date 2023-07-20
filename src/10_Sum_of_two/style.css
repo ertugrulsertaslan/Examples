@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 3rem;
+  }
+  input {
+    width:10rem;
+    height:3rem;
+    margin:0 2rem;
+  }
+  button{
+    width:7rem;
+    height:2rem;
+    margin:0 0 0 2rem;
+  }

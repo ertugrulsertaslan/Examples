@@ -1,0 +1,22 @@
+.line { 
+    text-decoration:line-through; 
+  }
+  body {
+    margin-left:30rem;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  input {
+    height:2rem;
+    width:10rem;
+  }
+  button {
+    height:2rem;
+    width:5rem;
+    font-size:1rem;
+    margin-left:1rem;
+  }
+  li {
+    font-size:2rem;
+  }

@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 4rem;
+  }
+  
+  .box {
+    width: 12rem;
+    height: 12rem;
+    background-color: #05fd02;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box.disabled {
+    background-color: #9f9f9f;
+  }
